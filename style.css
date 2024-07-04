@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#email-container,
+#messages-container {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
